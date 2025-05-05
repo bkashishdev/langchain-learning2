@@ -11,8 +11,8 @@ langchain_huggingface
 faiss-cpu
 chromadb
 langchain-groq
-langchain-ollama
 streamlit
+langchain-ollama
 chromadb
 protobuf==3.20.*
 
