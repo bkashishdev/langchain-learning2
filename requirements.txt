@@ -17,6 +17,23 @@
 # protobuf==3.20.*
 
 
+# streamlit
+# langchain
+# ipykernel
+# python-dotenv
+# langchain_community
+# pypdf
+# bs4
+# langchain-text-splitters
+# sentence_transformers
+# langchain_huggingface
+# faiss-cpu
+# chromadb==0.4.24
+# langchain-groq
+# langchain-ollama
+# protobuf==3.20.*
+# numpy==1.26.4
+
 streamlit
 langchain
 ipykernel
@@ -33,6 +50,7 @@ langchain-groq
 langchain-ollama
 protobuf==3.20.*
 numpy==1.26.4
+
 
 
 
