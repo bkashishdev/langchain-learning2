@@ -1,3 +1,22 @@
+# streamlit
+# langchain
+# ipykernel
+# python-dotenv
+# langchain_community
+# pypdf
+# bs4
+# langchain-text-splitters
+# sentence_transformers
+# langchain_huggingface
+# faiss-cpu
+# chromadb
+# langchain-groq
+# streamlit
+# langchain-ollama
+# chromadb
+# protobuf==3.20.*
+
+
 streamlit
 langchain
 ipykernel
@@ -9,12 +28,11 @@ langchain-text-splitters
 sentence_transformers
 langchain_huggingface
 faiss-cpu
-chromadb
+chromadb==0.4.24
 langchain-groq
-streamlit
 langchain-ollama
-chromadb
 protobuf==3.20.*
+
 
 
 
